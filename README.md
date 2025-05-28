@@ -83,7 +83,5 @@ This project is open-source and free to use for educational or non-commercial pu
 
 ---
 
- 📬 Contact
 
-For any queries or collaboration opportunities, feel free to connect with Sagar Sawant.
 
